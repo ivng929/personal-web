@@ -387,6 +387,7 @@ nav ul li a:hover{
     margin-bottom: 25px;
     margin-left: 10px;
     margin-right: 10px;
+    max-width: 600px;
 }
 
 .project-card:hover{
