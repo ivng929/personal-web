@@ -485,7 +485,7 @@ nav ul li a:hover{
 
 /* background-image */
 body{
-    background-image: url('../images/light-cloud-grey.JPG');
+    background-image: url('../images/light-cloud-grey.jpg');
     background-size: cover;
     /* background-repeat: no-repeat; */
     height: 100vh;
